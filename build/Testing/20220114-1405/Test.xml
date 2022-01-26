@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20220114-1405-Experimental"
+	Name="DESKTOP-V1A92DT"
+	Generator="ctest-3.22.1"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe"
+	CompilerVersion="19.29.30133.0"
+	OSName="Windows"
+	Hostname="DESKTOP-V1A92DT"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="13442"
+	TotalPhysicalMemory="8066"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2304"
+	>
+	<Testing>
+		<StartDateTime>Jan 15 00:39 Malay Peninsula Standard Time</StartDateTime>
+		<StartTestTime>1642178376</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 15 00:39 Malay Peninsula Standard Time</EndDateTime>
+		<EndTestTime>1642178376</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

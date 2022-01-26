@@ -1,0 +1,44 @@
+# CMake generation dependency list for this directory.
+/dev/vcpkg/installed/x86-windows/share/curl/CURLConfig.cmake
+/dev/vcpkg/installed/x86-windows/share/curl/CURLConfigVersion.cmake
+/dev/vcpkg/installed/x86-windows/share/curl/CURLTargets-debug.cmake
+/dev/vcpkg/installed/x86-windows/share/curl/CURLTargets-release.cmake
+/dev/vcpkg/installed/x86-windows/share/curl/CURLTargets.cmake
+/dev/vcpkg/installed/x86-windows/share/curl/vcpkg-cmake-wrapper.cmake
+/dev/vcpkg/installed/x86-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+/dev/vcpkg/scripts/buildsystems/vcpkg.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.22/Templates/CPackConfig.cmake.in
+C:/Users/zulhr/OneDrive/Desktop/C C++/CMakeLists.txt
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/3.22.1/CMakeRCCompiler.cmake
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/3.22.1/CMakeSystem.cmake

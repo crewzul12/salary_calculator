@@ -1,0 +1,9 @@
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/Experimental.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/Nightly.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/Continuous.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/salary_calc_proj.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/PACKAGE.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/zulhr/OneDrive/Desktop/C C++/build/CMakeFiles/ZERO_CHECK.dir

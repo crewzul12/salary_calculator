@@ -1,0 +1,10 @@
+^C:\USERS\ZULHR\ONEDRIVE\DESKTOP\C C++\BUILD\CMAKEFILES\A2FAD063E1CBC043D68AFB23521A7D9E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/zulhr/OneDrive/Desktop/C C++" "-BC:/Users/zulhr/OneDrive/Desktop/C C++/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/zulhr/OneDrive/Desktop/C C++/build/salary_calc_proj.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
